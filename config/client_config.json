@@ -1,0 +1,21 @@
+{
+    "outbounds": [
+        {
+            "protocol": "vmess",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "example.com",
+                        "port": 10086,
+                        "users": [
+                            {
+                                "id": "client-uuid",
+                                "alterId": 64
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
