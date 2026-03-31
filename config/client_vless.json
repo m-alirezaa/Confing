@@ -1,0 +1,1 @@
+{"outbounds":[{"protocol":"vless","settings":{"vnext":[{"address":"example.com","port":10087,"users":[{"id":"client-uuid","encryption":"none"}]}]}}]}
